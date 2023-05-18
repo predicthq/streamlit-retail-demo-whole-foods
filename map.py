@@ -44,7 +44,7 @@ def map():
 
     col1, col2 = st.columns([1,8])
     with col1:
-        st.markdown("<img src='app/static/department-store.png' width='160' />", unsafe_allow_html=True)
+        st.markdown("<img src='app/static/store-logo.png' width='160' />", unsafe_allow_html=True)
     
     with col2:
         st.header("")
